@@ -62,9 +62,9 @@ app.post("/",function(req,res){
      res.redirect('/');
  })
              
-http.listen(3000,function(){
-    console.log("server is running");
-});
+// http.listen(3000,function(){
+//     console.log("server is running");
+// });
 
 // console.log("hello World");
 
